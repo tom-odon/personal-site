@@ -23,7 +23,7 @@ email: tomodon.tech@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Tom Odon's personal web site, where he writes on software, and the people, processes, and tools that help make it great.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://tomodon.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: tom_odon  
 github_username:  tom-odon
 
@@ -31,6 +31,7 @@ github_username:  tom-odon
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
 # Exclude from processing.
 # The following items will not be processed, by default.
