@@ -2,7 +2,8 @@
 layout: post
 title:  "Hello World- again"
 date:   2023-05-24 13:05:52 -0500
-categories: jekyll update
+author: Tom
+categories: posts
 ---
 
 {% highlight csharp %}

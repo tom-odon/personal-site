@@ -28,7 +28,7 @@ twitter_username: tom_odon
 github_username:  tom-odon
 
 # Build settings
-theme: minima
+theme: jekyll-theme-clean-blog
 plugins:
   - jekyll-feed
   - jekyll-sitemap
