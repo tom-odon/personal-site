@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+description: Hi, I'm Tom, a midwestern technologist. Here's my story. 
 ---
 
 ## Hi, I'm Tom.
@@ -20,3 +21,4 @@ Software isn't just code. It's the product of people, processes, and tools that 
 
 When I'm not working, I'm likely reading with my kids, scrolling through Twitter, exercising, playing soccer, or attempting to fix something around my house. I drink my coffee black. 
 
+{% seo %}

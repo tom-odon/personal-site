@@ -2,6 +2,7 @@
 layout: page
 title: Posts
 permalink: /posts/
+description: Here's a list of blog posts I've written. 
 ---
 
 <ul>
@@ -11,3 +12,5 @@ permalink: /posts/
     </li>
   {% endfor %}
 </ul>
+
+{% seo %}
