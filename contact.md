@@ -2,6 +2,7 @@
 layout: page
 title: Contact
 permalink: /contact/
+description: Contact information for Tom.
 ---
 
 ## Get in touch.
@@ -13,3 +14,5 @@ Feel free to connect with me on social media:
 * LinkedIn
 * Flickr
 * GitHub
+
+{% seo %}
