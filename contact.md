@@ -7,12 +7,15 @@ description: Contact information for Tom.
 
 ## Get in touch.
 
-The best way to reach me is via email at tomodon.tech@gmail.com.
+The best way to reach me is via [email](mailto:tomodon.tech@gmail.com).
 
-Feel free to connect with me on social media:
-* Twitter
-* LinkedIn
-* Flickr
-* GitHub
+I'm also on a few social networking sites:
+
+<div>
+{%- include social.html -%}
+</div>
+
+See you around.
+
 
 {% seo %}
