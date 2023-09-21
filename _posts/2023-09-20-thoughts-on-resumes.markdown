@@ -3,7 +3,7 @@ layout: post
 title:  "Thoughts on resumes."
 date:   2023-09-20 20:06:52 -0500
 author: Tom
-categories: posts people
+categories: posts
 ---
 
 A former colleague asked me to review their resume recently, and the process caused me to think about resumes I've seen over the years as someone on the hiring side. I thought it might be helpful to share advice that I've gathered in bits and pieces. Software engineers looking for a new role would benefit from realizing how imperative that their first impression must be a strong one when applying. I’m primarily writing for folks that have experience over a year or more- I’ll hopefully post one for brand-new engineers in the future. 
@@ -12,21 +12,21 @@ A former colleague asked me to review their resume recently, and the process cau
 
 Hiring managers are asking themselves as they screen through resumes:
 * “What is this candidate capable of?”
-* “How can this candidates’ past experience translate to a positive impact in my organization?”
+* “How can this candidate's past experience translate to a positive impact in my organization?”
 * “Will this candidate work well with others on my team?”
 * “Can I count on this candidate to get things done?”
 * “Can this candidate learn our {codebase, technology, way of working}?”
 
 Your resume (and cover letter) is your first opportunity to communicate to these managers: "I can do what you’re asking. You can count on me to make your team better. Here's what I've done in the past to back that up". Simply regurgitating the job description from previous roles will only get you so far. 
 
-Instead of restating your current or previous roles’ job description, take time to parse through the position’s JD. It was likely created as a collaborative effort between the hiring manager and a recruiter. A candidate that can pick apart the JD with their resume to overcome the questions above stands a better chance compared ones who force the hiring team to attempt to map a candidates’ listed experience to the role described.
+Instead of restating your current or previous roles’ job description, take time to parse through the position’s JD. It was likely created as a collaborative effort between the hiring manager and a recruiter. A candidate who can pick apart the JD with their resume to overcome the questions above stands a better chance compared to ones who force the hiring team to attempt to map a candidate’s listed experience to the role described.
 
 ### Quality resumes are tailored to the role.
-Candidates that submit the same resume out to every role they apply to are putting themselves at a disadvantage. Contrast them with candidates that customize a resume to a job description, team, and company. The hiring team will notice a difference between the generic resumes compared to ones that were crafted with thought. 
+Candidates who submit the same resume to every role they apply to are putting themselves at a disadvantage. Contrast them with candidates that customize a resume to a job description, team, and company. The hiring team will notice a difference between the generic resumes compared to ones that were crafted with thought. 
 
-To be clear, you don’t have to start from scratch every time you decide to apply to a role. It helps to have a ‘primary’ resume of which ‘secondary’ versions can be cut down to an ideal size for brevity and relevant content. ‘Primary’ resumes are easily maintained over the course of your career if you regularly take time to review your accomplishments and impact. 
+To be clear, you don’t have to start from scratch every time you decide to apply for a role. It helps to have a ‘primary’ resume of which ‘secondary’ versions can be cut down to an ideal size for brevity and relevant content. ‘Primary’ resumes are easily maintained over the course of your career if you regularly take time to review your accomplishments and impact. 
 
-Another thing worth customizing is a cover letter. Often, cover letters aren’t required, and there’s also a no-cover-letters faction among engineers. Still, it’s my opinion that in a sea of candidates, a cover letter gives you a chance to further stand out beyond what you communicate in a resume. You might highlight why you’re interested in the role or company, or give more detail around a particular element in your resume that makes you a great fit for the role. It can also serve as an opportunity to answer questions someone might raise when reading your resume, like a gap in roles. If you choose to submit one (I think you should!) then make sure it’s not the same one you submitted to the last five roles - take time to communicate interest, highlight experience, or clarify your resume.
+Another thing worth customizing is a cover letter. Often, cover letters aren’t required, and there’s also a no-cover-letters faction among engineers. Still, it’s my opinion that in a sea of candidates, a cover letter gives you a chance to stand out beyond what you communicate in a resume. You might highlight why you’re interested in the role or company, or give more detail about a particular element in your resume that makes you a great fit for the role. It can also serve as an opportunity to answer questions someone might raise when reading your resume, like a gap in roles. If you choose to submit one (I think you should!) then make sure it’s not the same one you submitted to the last five roles - take time to communicate interest, highlight experience, or clarify your resume.
 
 ### Communicate your experience with impact and numbers.
 
@@ -43,7 +43,7 @@ For example:
 
 Laszlo Bock, a former [Chief HR Officer at Google](https://www.linkedin.com/pulse/20140929001534-24454816-my-personal-formula-for-a-better-resume), popularized the statement “Accomplished [X] as measured by [Y] by doing [Z]”. So - putting that to use with the above examples:
 
-* “Reduced homepage load 10% as measured by time to first contentful paint by caching images.”
+* “Reduced homepage load by 10% as measured by time to first contentful paint by caching images.”
 * “Increased product revenue by 30% measured by clickthrough rate by implementing a recommender system”.
 * “Enabled finance team to manage 500K subscriptions by integrating a payment processor”.
 
@@ -57,5 +57,5 @@ You don’t have to be best friends with your network- but being a good colleagu
 
 ### TL;DR: 
 
-Construct your resume as though a hiring manager will read it. Answer the questions that you know they’re asking. Build a tailored resume for that role from a primary resume, which you’ve regularly maintained with a running record of your accomplishments. Quantify your impact in those accomplishments with numbers. Maintain a network of industry connections to increase your chances of a referral.
+Construct your resume as though a hiring manager will read it. Answer the questions that you know they’re asking. Build a tailored resume for that role from a primary resume, which you’ve regularly maintained with a running record of your accomplishments. Quantify your impact on those accomplishments with numbers. Maintain a network of industry connections to increase your chances of a referral.
 
